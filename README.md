@@ -5,8 +5,11 @@ Comandos executados durante cursos de Python.
 Conteúdo abordado no nosso curso (visto até Nested Functions e Decoradores até o momento):
 
 Instalação da IDE em diversos Sistemas Operacionais
+
 Entrada e saída de dados
+
 Variáveis e tipo de dados
+
 Operações matemáticas
 Condicionais e operadores lógicos
 Estruturas de repetição
